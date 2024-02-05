@@ -1,6 +1,11 @@
 # 👾 About Me:
 I'm Daniel Ruiz Blanco, an Electronic Engineering with Business Management graduate from King's College London, currently pursuing a Postgraduate degree in Big Data, Artificial Intelligence, and Advanced Analytics at the Higher Technical School of Engineering of Madrid. Passionate about artificial intelligence, and making everyone's life easier. I am currently an intern in the Applied Intelligence team at Accenture Spain.
 
+# 📚 Projects
+- [Accenture Places Booking Automation](https://github.com/paydos/BookingAutomation)
+- [Shopping Trolley AI](https://github.com/paydos/shoppingtrolleyAI)
+- [Precio al plato](https://github.com/precio-al-plato)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ruiz-blanco-93474b171/)
 
