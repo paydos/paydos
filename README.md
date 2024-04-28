@@ -3,7 +3,6 @@ I'm Daniel Ruiz Blanco, an Electronic Engineering with Business Management gradu
 
 # 📚 Projects
 - [Accenture Places Booking Automation](https://github.com/paydos/BookingAutomation)
-- [Shopping Trolley AI](https://github.com/paydos/shoppingtrolleyAI)
 - [Precio al plato](https://github.com/precio-al-plato)
 
 ## 🌐 Socials:
