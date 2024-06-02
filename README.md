@@ -4,6 +4,8 @@ I'm Daniel Ruiz Blanco, an Electronic Engineering with Business Management gradu
 # 📚 Projects
 - [Accenture Places Booking Automation](https://github.com/paydos/BookingAutomation)
 - [Precio al plato](https://github.com/precio-al-plato)
+- [LexAnalytica](https://github.com/lexanalytica)
+- 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ruiz-blanco-93474b171/)
