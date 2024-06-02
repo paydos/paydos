@@ -1,5 +1,5 @@
 # 👾 About Me:
-I'm Daniel Ruiz Blanco, an Electronic Engineering with Business Management graduate from King's College London, currently pursuing a Postgraduate degree in Big Data, Artificial Intelligence, and Advanced Analytics at the Higher Technical School of Engineering of Madrid. Passionate about artificial intelligence, and making everyone's life easier. I am currently an intern in the Applied Intelligence team at Accenture Spain.
+I'm Daniel Ruiz Blanco, an Electronic Engineering with Business Management graduate from King's College London and an Artificial Intelligence and Big Data MSc postgrad from the Higher Technical School of Engineering. Passionate about artificial intelligence, and making everyone's life easier. I am currently an intern in the Applied Intelligence team at Accenture Spain.
 
 # 📚 Projects
 - [Accenture Places Booking Automation](https://github.com/paydos/BookingAutomation)
